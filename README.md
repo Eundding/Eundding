@@ -6,6 +6,7 @@
 
 # Eundding
 ## Hello, Nice to see you :)
+### My blog https://dkan9634.tistory.com/
 <!-- 
 <!-- <div align=center><h1>📚 STACKS</h1></div>
 
