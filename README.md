@@ -4,9 +4,44 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... -->
 
-# Eundding
 ## Hello, Nice to see you :)
-### My blog https://dkan9634.tistory.com/
+
+<p algin="center">
+  
+ 열심히 살아보겠습니다👊
+ 
+</p>
+
+<div align=center><h1>📚 Github stats </h1></div>
+
+<div align=center>
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FEundding&count_bg=%2310783D&title_bg=%23BEDB15&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+</div>
+<div align=center>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eundding&show_icons=true&theme=radical)
+
+</div>
+<div align=center><h1>🏅 Solved.ac</h1></div>
+
+<div align=center>
+  
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dkan9634)](https://solved.ac/dkan9634/)
+
+</div>
+
+
+
+<div align=center><h1>🖥️ Most used languages </h1></div>
+
+<div align=center>
+  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eundding&layout=compact&theme=radical)
+  
+</div>
+
 <!-- 
 <!-- <div align=center><h1>📚 STACKS</h1></div>
 
