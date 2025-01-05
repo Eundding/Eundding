@@ -23,14 +23,6 @@
 
 
 
-<div align=center><h1>🖥️ Most used languages </h1></div>
-
-<div align=center>
-  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eundding&layout=compact&theme=radical)
-  
-</div>
-
 <!-- 
 <!-- <div align=center><h1>📚 STACKS</h1></div>
 
