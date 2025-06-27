@@ -3,18 +3,42 @@
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... -->
+# Eunjeong Lee
+안녕하세요, 이은정입니다.  
+인하대학교 인공지능공학과에 재학 중이며, 추천 시스템에 관심이 있습니다.  
+현재는 멀티모달 지식 그래프 기반의 추천 시스템을 연구하고 있습니다.  
 
-## Hello, Nice to see you :)
-
-<p algin="center">
-  
- 열심히 살아보겠습니다👊
- 
-</p>
+📚[Blog](https://velog.io/@dkan9634)
 
 
-<div align=center><h1>🏅 Solved.ac</h1></div>
+## 🎓 Education
+- B.S. in Artificial Intelligence, Inha University  
+  Mar. 2021 – Feb. 2026 (Expected)
 
+
+## ✏️ Research Experience
+
+- **Knowledge-based Data Discovery Lab**, Inha University, Korea  
+  *Undergraduate Research*     
+  Focus: Multi-modal Knowledge Graph, Recommendation Systems      
+  Mar. 2025 – Present 
+
+- **Affective Artificial Intelligence Lab**, Inha University, Korea  
+  *Undergraduate Research*
+  Focus: Emotion Recognition, Brain-Computer Interface     
+  Dec. 2021 – Aug. 2023
+
+## 📝 Publications
+- Eunjeong Lee, Yeonkyung Lee, and Youngduk Seo, "Personalized Fusion Recommendation with MMKG-enhanced CLIP-based Embeddings", Korea Institute of Information Technology(KIIT), (2025)
+
+
+## 👍 Interests
+- Recommender Systems
+- Knowledge Graph
+- Multimodal Knowledge Graph
+
+
+## 💻 Solved.ac
 <div align=center>
   
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dkan9634)](https://solved.ac/dkan9634/)
