@@ -5,15 +5,18 @@
 - 📫 How to reach me ... -->
 # Eunjeong Lee
 안녕하세요, 이은정입니다.  
-인하대학교 인공지능공학과에 재학 중이며, 추천 시스템에 관심이 있습니다.  
-현재는 멀티모달 지식 그래프 기반의 추천 시스템을 연구하고 있습니다.  
+
+인하대학교 인공지능공학과 졸업 후, 인하대학교 전기컴퓨터공학과 인공지능전공 재학중입니다.  
+추천 시스템에 관심이 있고 Inductive 추천 시스템을 연구하고 있습니다.  
 
 📚[Blog](https://velog.io/@dkan9634)
 
 
 ## 🎓 Education
+- M.S. in Artificial Intelligence, Inha University  
+  Mar. 2026 - Feb. 2028(Expected)
 - B.S. in Artificial Intelligence, Inha University  
-  Mar. 2021 – Feb. 2026 (Expected)
+  Mar. 2021 – Feb. 2026 
 
 
 ## ✏️ Research Experience
@@ -21,7 +24,7 @@
 - **Knowledge-based Data Discovery Lab**, Inha University, Korea  
   *Undergraduate Research*     
   Focus: Multi-modal Knowledge Graph, Recommendation Systems      
-  Mar. 2025 – Present 
+  Mar. 2025 – Feb. 2026
 
 - **Affective Artificial Intelligence Lab**, Inha University, Korea  
   *Undergraduate Research*
@@ -29,13 +32,16 @@
   Dec. 2021 – Aug. 2023
 
 ## 📝 Publications
-- Eunjeong Lee, Yeonkyung Lee, and Youngduk Seo, "Personalized Fusion Recommendation with MMKG-enhanced CLIP-based Embeddings", Korea Institute of Information Technology(KIIT), (2025)
+
+- Eunjeong Lee, Yeonkyung Lee, and Youngduk Seo, "CRAFT: A Cross-modal Representation Attention Fusion Transformer for Recommendation", Korea Software Congress(KSC), 2025
+- Eunjeong Lee, Yeonkyung Lee, and Youngduk Seo, "Personalized Fusion Recommendation with MMKG-enhanced CLIP-based Embeddings", Korea Institute of Information Technology(KIIT), 2025
 
 
 ## 👍 Interests
 - Recommender Systems
 - Knowledge Graph
 - Multimodal Knowledge Graph
+- Inductive Recommendation
 
 
 ## 💻 Solved.ac
